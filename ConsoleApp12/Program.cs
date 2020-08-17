@@ -11,6 +11,8 @@ namespace MusicTimer
 {
     class Program
     {
+        //TODO configFile
+
         public static readonly string pathToPlaylists = "..\\Playlists.txt";
         public static readonly string pathToConfig = "..\\Config.txt";
         static void Main()
